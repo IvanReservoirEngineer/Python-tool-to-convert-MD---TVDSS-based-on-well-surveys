@@ -1,0 +1,3 @@
+python well_md_tvdss_converter.py wells_survey.txt Wells_TVDSS_Depth_Calc.xlsx --mode md2tvdss
+
+python well_md_tvdss_converter.py wells_survey.txt Wells_MD_Depth_Calc.xlsx --mode tvdss2md
